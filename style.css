@@ -1,0 +1,22 @@
+/* nav-bar */
+
+.container-fluid{
+    padding: 3% 12% 5%;
+}
+.btn-sm{
+   border-radius: 25px; 
+}
+.navbar{
+    padding: 0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: 'Lato', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0% 10%;
+}
+
