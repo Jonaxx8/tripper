@@ -1,14 +1,17 @@
+/* @import "//netdna.bootstrapcdn.com/font-awesome/5.10.0/css/font-awesome.css"; */
 /* nav-bar */
-
+/* body{
+    padding: 3% 20% 5%;
+} */
 .container-fluid{
-    padding: 3% 12% 5%;
+    padding: 3% 20% 0%;
 }
 .btn-sm{
    border-radius: 25px; 
 }
-.navbar{
-    padding: 0 0 4.5rem;
-}
+/* .navbar{
+    padding: 0 0 0rem;
+} */
 .navbar-brand{
     font-family: 'Lato', sans-serif;
     font-size: 2.5rem;
@@ -17,6 +20,66 @@
 .nav-link{
     font-size: 1.2rem;
     font-weight: 700;
-    padding: 0% 10%;
+    /* padding: 0% 5%; */
 }
+
+#jump-arnd-btns{
+    padding: 1% 20% 2%;
+}
+.nav-btns{
+    margin: 6px;
+}
+
+
+.btn {
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family: 'Lato', sans-serif;
+    color: #000000;
+    font-size: 20px;
+    background: #ffffff;
+    padding: 12px 30px 12px 30px;
+    border: solid #000000 2px;
+    text-decoration: none;
+  }
+  
+.btn:hover {
+    text-decoration: none;
+}
+
+#search-bar-with-img{
+    padding: 0% 20% 5%;
+    
+}
+.idk-rn{
+    background-image: url('assets/search\ bar\ img.webp');
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.search-bar{
+    text-align: center;
+    padding: 1.5% 25% 1.5% 25%;
+    border-radius: 30px;
+    border-width: 0ch;
+    border-color: #ffffff;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    box-shadow: 5px 3px 3px black;
+}
+::placeholder{
+    color: gray;
+    font-size: 1.2rem; 
+}
+
+#support-sec{
+    padding: 0% 20% 5%;
+}
+.girl-img{
+    /* size: 150px; */
+}
+
+
 
