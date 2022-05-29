@@ -196,6 +196,45 @@ h3{
     font-size: 15px;
     display: inline-block;
 }
+#top-dest{
+    padding: 5% 20% 3%;
+}
+.top-places{
+    padding-top: 2%;
+}
+#best-choice{
+    background-color: #004f32;
+    width: 1700px;
+    height: 600px;
+}
+.best-ch-matter{
+    padding: 7% 20% 3%;
+}
+.tripper-svg{
+    margin-top: 15%;
+    width: 120px;
+    height: 75px;
+}
+.best-ch-h2{
+    margin-top: 2%;
+    margin-left: -40px;
+    font-size: 34px;
+    line-height: 32px;
+    width: 240px;
+    text-align: center;
+}
+.bch{
+    width: 1200px;
+    height: 600px;
+    padding-right: 20%;
+}
+.best-ch-bt{
+    padding: 5%;
+    margin-top: 30%;
+    padding-left: 2%;
+    color: white;
+    background-color: #000000;
+    border-radius: 25px;
 
-
+}
 
