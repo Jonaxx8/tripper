@@ -237,4 +237,21 @@ h3{
     border-radius: 25px;
 
 }
+#footer{
+    text-align: center;
+    padding: 4%;
+}
+.footer-icon{
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.footer-p{
+    font-weight: 700;
+    text-shadow: none;
+    color: #000000;
+    margin-top: 5px;
+}
+.footer-icon:hover{
+    cursor: pointer;
+}
 
